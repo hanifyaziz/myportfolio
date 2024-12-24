@@ -135,7 +135,8 @@ body {
 
 /* main a -- links */
 
-/* a {
+
+/*a {
   color: #009688;
 } */
 
@@ -548,6 +549,10 @@ small {
 
 /* main .teal-text */
 
+.black-text {
+  color: #000000 !important;
+}
+
 .teal-text {
   color: #008073 !important;
 }
@@ -560,6 +565,10 @@ small {
 
 .teal {
   background-color: #008073 !important;
+}
+
+.black {
+  background-color: #000000 !important;
 }
 
 /* .teal {
